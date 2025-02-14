@@ -231,7 +231,7 @@
         {
             "name": "tvlive",
             "type": 0,
-            "url": "https://4708.kstore.space/omg/tv.txt",
+            "url": "https://por463.github.io/mini/M/TV.txt",
             "playerType": 1,
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
