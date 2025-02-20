@@ -39,6 +39,12 @@
             "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/"
         },
         {
+            "key":"黑木耳",
+            "name":"黑木耳(采集)",
+            "type":1,
+            "api":"https://json.heimuer.xyz/api.php/provide/vod/"
+        },
+        {
             "key":"影图",
             "name":"影图(采集)",
             "type":1,
