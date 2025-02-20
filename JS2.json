@@ -39,6 +39,24 @@
             "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/"
         },
         {
+            "key":"影图",
+            "name":"影图(采集)",
+            "type":1,
+            "api":"https://www.911ysw.top/tianyi.php/provide/vod/at/json"
+        },
+        {
+            "key":"如意",
+            "name":"如意(采集)",
+            "type":1,
+            "api":"https://cj.rycjapi.com/api.php/provide/vod"
+        },
+        {
+            "key":"丫丫",
+            "name":"丫丫(采集)",
+            "type":1,
+            "api":"https://cj.yayazy.net/api.php/provide/vod/"
+        },
+        {
             "key" : "drpy_js_农民",
             "name" : "农民影视(js2)",
             "type" : 3,
