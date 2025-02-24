@@ -9,15 +9,15 @@
             "ext": "https://por463.github.io/mini/js/我的哔哩.js"
         },
         {
-            "key": "csp_Bili",
-            "name": "哔哩合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
+            "key":"csp_Bili",
+            "name":"哔哩合集",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,": 1,
             "jar": "https://szyyds.cn/tv/spider.jar",
-            "ext": "https://por463.github.io/mini/json/bili.json"
+            "ext":"https://szyyds.cn/tv/js/bilibili.json"
         },
         {
             "key" : "drpy_js_兔小贝",
