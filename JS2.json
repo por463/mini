@@ -9,6 +9,13 @@
             "ext": "https://por463.github.io/mini/js/我的哔哩.js"
         },
         {
+            "key" : "drpy_js_兔小贝",
+            "name" : "兔小贝(js2)",
+            "type" : 3,
+            "api" : "https://por463.github.io/mini/lib/drpy2.min.js",
+            "ext" : "https://por463.github.io/mini/js/兔小贝.js"
+        },
+        {
             "key":"高清",
             "name":"高清(采集)",
             "type":1,
