@@ -10,7 +10,7 @@
         },
         {
             "key":"csp_Bili",
-            "name":"哔哩合集",
+            "name":"哔哩合集（第三方）",
             "type":3,
             "api":"csp_Bili",
             "searchable":1,
