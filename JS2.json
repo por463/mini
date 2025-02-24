@@ -4,9 +4,12 @@
         {
             "key": "drpy_js_我的哔哩",
             "name": "我的哔哩(js2)",
-            "type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 1,
             "api": "https://por463.github.io/mini/lib/drpy2.min.js",
-            "ext": "https://por463.github.io/mini/js/我的哔哩.js"
+            "ext": "https://por463.github.io/mini/js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
         },
         {
             "key":"csp_Bili",
