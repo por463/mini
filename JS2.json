@@ -2,14 +2,15 @@
     "spider": "https://por463.github.io/mini/js1.jar",
     "sites": [
         {
-            "key": "drpy_js_我的哔哩",
+            "key": "js2_js_我的哔哩",
             "name": "我的哔哩(js2)",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 1,
+            "type": 3,
             "api": "https://por463.github.io/mini/lib/drpy2.min.js",
-            "ext": "https://por463.github.io/mini/js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
+            "ext": "https://por463.github.io/mini/js/我的哔哩[官].js", 
+            "style": {
+                     "type": "rect",
+                     "ratio": 1.333
+                     }
         },
         {
             "key":"csp_Bili",
