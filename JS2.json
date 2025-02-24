@@ -6,7 +6,7 @@
             "name": "我的哔哩(js2)",
             "type": 3,
             "api": "https://por463.github.io/mini/lib/drpy2.min.js",
-            "ext": "https://por463.github.io/mini/js/我的哔哩[官].js", 
+            "ext": "https://por463.github.io/mini/js/我的哔哩.js", 
             "style": {
                      "type": "rect",
                      "ratio": 1.333
