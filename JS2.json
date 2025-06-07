@@ -20,6 +20,15 @@
             "ext":"https://szyyds.cn/tv/js/bilibili.json"
         },
         {
+            "key":"MV大全",
+            "name":"卡拉ok(第三方)",
+            "type":4,
+            "api":"http://120.53.102.254/dsp/",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"高清",
             "name":"高清(采集)",
             "type":1,
