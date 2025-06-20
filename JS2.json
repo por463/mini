@@ -27,6 +27,16 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
+        },       
+        {
+            "key": "瓜子影视",
+            "name": "瓜子影视(第三方)",
+            "type": 3,
+            "api": "csp_Gz360",
+            "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key":"高清",
