@@ -1,23 +1,12 @@
 {
     "spider": "https://por463.github.io/mini/js1.jar",
-    "sites": [
+    "sites": [      
         {
-            "key": "js2_js_我的哔哩",
-            "name": "我的哔哩(js2)",
-            "type": 3,
-            "api": "https://por463.github.io/mini/lib/drpy2.min.js",
-            "ext": "https://por463.github.io/mini/js/我的哔哩.js"
-        },
-        {
-            "key":"csp_Bili",
-            "name":"哔哩合集（第三方）",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar": "https://szyyds.cn/tv/spider.jar",
-            "ext":"https://szyyds.cn/tv/js/bilibili.json"
+            "key":"T4-bili",
+            "name":"B站-哔哩(T4)",
+            "type":4,
+            "jar": "https://coss.yupoo.com/upchat/2025-09-25/1758799916045.jpg",
+            "api":"https://catbox.n13.club/t9/bili.php"
         },
         {
             "key":"MV大全",
