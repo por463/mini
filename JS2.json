@@ -83,165 +83,111 @@
         },
         {
             "key":"天堂",
-            "name":"天堂",
+            "name":"天堂(采集)",
             "type":1,
             "api":"http://caiji.dyttzyapi.com/api.php/provide/vod/"
         },
         {
            "key":"茅台",
-           "name":"茅台",
+           "name":"茅台(采集)",
            "type":1,
            "api":"https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/"
         },
         {
-            "key":"蜂巢",
-            "name":"蜂巢",
-            "type":1,
-            "api":"https://api.fczy888.me/api.php/provide/vod/"
-        },
-        {
-            "key":"无限",
-            "name":"无限",
-            "type":1,
-            "api":"https://api.wuxianzy.net/api.php/provide/vod/?"
-        },
-        {
             "key":"360",
-            "name":"360",
+            "name":"360(采集)",
             "type":1,
             "api":"https://360zy.com/api.php/provide/vod/"
         },
         {
             "key":"优质",
-            "name":"优质",
+            "name":"优质(采集)",
             "type":1,
             "api":"https://api.yzzy-api.com/inc/api_mac10.php?ac"
-        },   
-        {
-            "key":"如意",
-            "name":"如意",
-            "type":1,
-            "api":"https://cj.rycjapi.com/api.php/provide/vod/"
         },
         {
             "key":"无尽",
-            "name":"无尽",
+            "name":"无尽(采集)",
             "type":1,
             "api":"https://api.wujinapi.cc/api.php/provide/vod/"
         },
         {
-            "key":"华为",
-            "name":"华为",
-            "type":1,
-            "api":"https://huaweiba.live/api.php/provide/vod/"
-        },
-        {
-            "key":"魔爪",
-            "name":"魔爪",
-            "type":1,
-            "api":"https://mozhuazy.com/api.php/provide/vod/"
-        },   
-        {
             "key":"墨都",
-            "name":"墨都",
+            "name":"墨都(采集)",
             "type":1,
             "api":"https://www.mdzyapi.com/api.php/provide/vod/"
         },
         {
-            "key":"无限",
-            "name":"无限",
-            "type":1,
-            "api":"https://api.wuxianzy.net/api.php/provide/vod/"
-        },
-        {
             "key":"豆瓣",
-            "name":"豆瓣",
+            "name":"豆瓣(采集)",
             "type":1,
             "api":"https://caiji.dbzy.tv/api.php/provide/vod/"
         },
         {
             "key":"bibili",
-            "name":"789哔哩",
+            "name":"789哔哩(采集)",
             "type":1,
             "api":"https://www.caiji.cyou/api.php/provide/vod/?",
             "playUrl":"https://jiexi.789jiexi.com/?url="
         },
         {
             "key":"红牛",
-            "name":"红牛",
+            "name":"红牛(采集)",
             "type":1,
             "api":"https://www.hongniuzy2.com/api.php/provide/vod/"
         },
         {
             "key":"光速",
-            "name":"光速",
+            "name":"光速(采集)",
             "type":1,
             "api":"http://api.guangsuapi.com/api.php/provide/vod/"
         },
         { 
             "key":"极速",
-            "name":"极速",
+            "name":"极速(采集)",
             "type":1,
             "api":"https://jszyapi.com/api.php/provide/vod/"
         },
         {
             "key":"快车",
-            "name":"快车",
+            "name":"快车(采集)",
             "type":1,
             "api":"https://caiji.kuaichezy.org/api.php/provide/vod/"
         },
         {
             "key":"卧龙",
-            "name":"卧龙",
+            "name":"卧龙(采集)",
             "type":1,
             "api":"https://collect.wolongzy.cc/api.php/provide/vod/"
             
         },
         {
-            "key":"极速",
-            "name":"极速",
-            "type":1,
-            "api":"https://jszyapi.com/api.php/provide/vod/"
-        },
-        {
-            "key":"九零",
-            "name":"九零",
-            "type":1,
-            "api":"https://oknnews.com/api.php/provide/vod/"
-        },   
-        {
             "key":"四个圈",
-            "name":"四圈",
+            "name":"四圈(采集)",
             "type":1,
             "api":"https://pg.fenwe078.cf/api.php/provide/vod/"
         },
         {
-            "key":"OK资源",
-            "name":"资源",
-            "type":1,
-            "api":"https://okzyw9.com/api.php/provide/vod/"
-        },
-        {
             "key":"最大",
-            "name":"最大",
+            "name":"最大(采集)",
             "type":1,
             "api":"https://zuida.xyz/api.php/provide/vod/"
         },
         {
             "key":"豪华",
-            "name":"豪华",
+            "name":"豪华(采集)",
             "type":1,
             "api":"https://hhzyapi.com/api.php/provide/vod/"
         },
         {
             "key":"牛牛",
-            "name":"牛牛",
+            "name":"牛牛(采集)",
             "type":1,
             "api":"https://api.niuniuzy.me/api.php/provide/vod/"
         },
         {
             "key":"天涯",
-            "name":"天涯",
+            "name":"天涯(采集)",
             "type":1,
             "api":"https://tyyszyapi.com/api.php/provide/vod/"
         },
